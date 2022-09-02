@@ -1,0 +1,32 @@
+.box{
+    background-color: black;
+    color: white;
+    align-items: center;
+    padding: 60px 255px 60px 255px;
+    margin-top: 50px;
+}
+
+#Mobile_Brand {
+    background-color: black;
+    color: white;
+    border: none;
+}
+
+#Mobile_Model{
+    background-color: black;
+    color: #eeeeee;
+    border: none;
+}
+
+#sb{
+    background-color: black;
+ color: white;   
+    border: none;  
+    margin:  0 50px 0 50px;
+}
+
+#sb:hover{
+ 
+ background-color: white;
+    color: black;
+}
